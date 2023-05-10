@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kariyarn
+ *
+ */
+module JavaPractice {
+}
